@@ -4,7 +4,7 @@ Currently split between France 🇫🇷 and Canada 🇨🇦 for a dual-degree pr
 
 I'm a big believer in learning by building. I use my free time to ship small, educational projects to test new tools and improve my skills. Most of them are right here on my GitHub.
 
-Currently, I'm also stepping outside the terminal to develop a video game on my own using Godot. It’s a challenge that involves everything from narrative writing to mastering graphic design—learning how to build an experience from the ground up.
+Currently, I'm also stepping outside the terminal to develop a video game on my own using Godot. It’s a challenge that involves everything from narrative writing to mastering graphic design. Learning how to build an experience from the ground up.
 
 ## Tech I use 
 - **Languages:** Python, C/C++ (17+), R, SQL, Java.
