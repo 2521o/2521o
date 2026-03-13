@@ -1,6 +1,6 @@
 # Hi! I am Florian 👋
 
-Currently split between France 🇫🇷 and Canada 🇨🇦 for a dual-degree program (MSc in Computer Science & MEng in AI and Data Science). I spend most of my time exploring **Agentic AI** and **Computer Vision**, specifically for healthcare and industrial use cases.
+Currently split between France 🇫🇷 and Canada 🇨🇦 for a dual-degree program (MSc in Computer Science & MEng in AI and Data Science). I spend most of my time exploring **Agentic AI**, specifically for industrial use cases.
 
 I'm a big believer in learning by building. I use my free time to ship small, educational projects to test new tools and improve my skills. Most of them are right here on my GitHub.
 
@@ -8,8 +8,8 @@ Currently, I'm also stepping outside the terminal to develop a video game on my 
 
 ## Tech I use 
 - **Languages:** Python, C/C++ (17+), R, SQL, Java.
-- **AI/ML:** PyTorch (CUDA), Scikit-learn, OpenCV.
-- **Agentic AI:** CrewAI, LangChain, Pydantic, Ollama.
+- **AI/ML:** PyTorch, Scikit-learn, mlr3.
+- **Agentic AI:** CrewAI, LangChain, Langgraph, Pydantic, Ollama.
 - **Infrastructure:** Docker, GitHub Actions.
 - **Databases:** PostgreSQL, MySQL.
 - **Game dev**: Godot
