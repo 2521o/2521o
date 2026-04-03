@@ -15,9 +15,9 @@ Currently, I'm also stepping outside the terminal to develop a video game on my 
 - **Game dev**: Godot
 
 ## Latest Project: [Polrate](https://github.com/2521o/Polrate)
-I built this to experiment with **multi-agent systems**. The goal was to summarize and fact-check YouTube debate transcripts by orchestrating specialized agents. It uses CrewAI to manage the workflow and Ollama to run the LLMs locally.
+I built this to experiment with **multi-agent systems**. The goal was to summarize and fact-check YouTube debate transcripts by orchestrating specialized agents. It uses DSPy and LangGraph to manage the workflow, and Ollama to run the LLMs locally.
 
 * **Key Challenge:** Designing an effective coordination logic between the "Summarizer" and the "Fact-checker" agents.
 * **Stack:** Python, DSPy, LangGraph, Ollama.
 
-🔗 **[Check out the repository →](https://github.com/2521o/Polrate)**
+🔗 **[Check out the repository →](https://github.com/floriandl/Polrate)**
